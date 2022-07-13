@@ -1,0 +1,28 @@
+{
+   "editor.formatOnSave": true,
+   "editor.rulers": [
+      100
+   ],
+   "editor.wordWrapColumn": 100,
+   "editor.wordWrap": "wordWrapColumn",
+   "editor.wrappingIndent": "indent",
+   "files.insertFinalNewline": true,
+   "[jsonc]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+   },
+   "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+   },
+   "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+   },
+   "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+   },
+   "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+   },
+   "[scss]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+   }
+}
